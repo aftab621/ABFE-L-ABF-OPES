@@ -1,6 +1,5 @@
 # ABFE-L-ABF-OPES
-This repository contains all the input files used for the L-ABF-OPES paper: "L-ABF-OPES: Absolute Binding Free Energy Calculations Using Local Adaptively Biased Force and On-the-Fly Probability Enhanced Sampling
-" (https://doi.org/10.48550/arXiv.2502.17233).
+This repository contains all the input files used for the L-ABF-OPES paper: "L-ABF-OPES: Absolute Binding Free Energy Calculations Using Local Adaptively Biased Force and On-the-Fly Probability Enhanced Sampling" (https://doi.org/10.48550/arXiv.2502.17233).
 
 # About
 
